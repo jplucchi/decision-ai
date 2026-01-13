@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (gerados localmente)
+models/*.pkl
+
+# Mac
+.DS_Store
+
+# IDEs
+.vscode/
+*.swp
